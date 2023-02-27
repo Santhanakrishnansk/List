@@ -1,0 +1,25 @@
+@import "~bootstrap/scss/bootstrap";
+
+.btn-info {
+  background-color: #e5e5e5 !important;
+  border-color: #e5e5e5 !important;
+}
+
+.btn-info:hover {
+  background-color: #c3c3c3 !important;
+  border-color: #c3c3c3 !important;
+}
+
+.narrow-heading {
+  width: 20%;
+}
+
+.list_main_container {
+  height: 100vh;
+  background-color: #f9f4f4ce;
+}
+
+.list_sub_container {
+  height: 85vh;
+  background-color: white;
+}
